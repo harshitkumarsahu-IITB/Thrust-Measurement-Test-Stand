@@ -1,5 +1,3 @@
-# Thrust-Measurement-Test-Stand
-
 # 🚀 BLDC Motor Thrust Measurement Test Stand
 
 A low-cost and accurate **BLDC Motor Thrust Measurement Test Stand** built using an **Arduino Mega 2560**, **HX711 Load Cell Amplifier**, **PCA9685 PWM Driver**, and an **Infrared RPM Sensor**.
